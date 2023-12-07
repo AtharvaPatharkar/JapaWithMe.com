@@ -696,7 +696,7 @@ document.getElementById('changeColorButton').addEventListener('click', function 
 
 document.getElementById('originalColorButton').addEventListener('click', function () {
     // Reset background color of mainContent to the original color
-    document.getElementById('mainContent').style.backgroundColor = 'red';
+    document.getElementById('mainContent').style.backgroundColor = ''; // or 'transparent'
 });
 
 //mainContent code end
