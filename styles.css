@@ -508,7 +508,7 @@ h1:hover {
 .bead {
   width: 50px;
   height: 50px;
-  background: url('Bead.png') no-repeat center center;
+  background: url('bead.png') no-repeat center center;
   background-size: cover;
   border-radius: 50%;
   margin: 5px;
